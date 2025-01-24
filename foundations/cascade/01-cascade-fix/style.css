@@ -14,14 +14,21 @@ body {
   font-weight: 800;
 }
 
-/*.small-para {
+/* Correct answer (you could either delete the rule or comment it out
+.small-para {
   font-size: 14px;
   font-weight: 100;
 }*/
 
+/* Wrong Response
 .para {
   font-size: 12px;
   font-weight: 900;
+}*/
+
+/*Correct Answer */
+.para {
+  font-size: 22px;
 }
 
 .confirm {
