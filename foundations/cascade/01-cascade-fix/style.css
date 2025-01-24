@@ -44,7 +44,12 @@ body {
   color: rgb(0, 0, 0);
   font-size: 20px;
 }
-
+/*Correct placement and specifity*/
+div.text {
+  color: rgb(0, 0%, 0%);
+  font-weight: 100;
+  font-size: 22px;
+}
 /*Wrong Answer provided
 .confirm {
   background: green;
