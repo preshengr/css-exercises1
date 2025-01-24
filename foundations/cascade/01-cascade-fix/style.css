@@ -59,14 +59,23 @@ body {
   font-weight: bold;
 }
 
-/*.child {
+/*Wrong answer 
+.child {
   color: rgb(0, 0, 0);
   font-weight: 800;
   font-size: 14px;
 }*/
 
+/*Correct Answer*/
+div .child {
+  color: rgb(0, 0%, 0%);
+  font-weight: 800;
+  font-size: 14px;
+}
+
+/* removed this to suite the above rule
 div.text {
   color: rgb(101, 5, 5);
   font-size: 22px;
   font-weight: 100;
-}
+}*/
