@@ -31,16 +31,33 @@ body {
   font-size: 22px;
 }
 
-.confirm {
-  background: green;
-  color: white;
-  font-weight: bold;
-} 
-/*.button {
+/* wrong step
+.button {
   background-color: rgb(255, 255, 255);
   color: rgb(0, 0, 0);
   font-size: 20px;
 }*/
+
+/* Correct Answer*/
+.button {
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+}
+
+/*Wrong Answer provided
+.confirm {
+  background: green;
+  color: white;
+  font-weight: bold;
+}*/
+
+/*Correct Answer*/
+#confirm-button {
+  background: green;
+  color: white;
+  font-weight: bold;
+}
 
 /*.child {
   color: rgb(0, 0, 0);
