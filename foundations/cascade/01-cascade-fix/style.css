@@ -14,7 +14,7 @@ body {
   font-weight: 800;
 }
 
-/* Correct answer (you could either delete the rule or comment it out
+/* Correct answer (but wrong placement)
 .small-para {
   font-size: 14px;
   font-weight: 100;
@@ -49,6 +49,12 @@ div.text {
   color: rgb(0, 0%, 0%);
   font-weight: 100;
   font-size: 22px;
+}
+
+/*Right Placement*/
+.small-para {
+  font-size: 14px;
+  font-weight: 100;
 }
 /*Wrong Answer provided
 .confirm {
